@@ -6,7 +6,7 @@ Anwesend sind:
 Strauß, Strutz, Tuttner, Uhl, Waltl, Wieser, Zitz
 
 *Thema:*
-* GIT
+* GIT ![GitHub Logo](/logomark-orange@2x.png)
 * GitHub
 * Markdown
 
